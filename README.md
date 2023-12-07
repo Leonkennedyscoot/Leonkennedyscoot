@@ -9,7 +9,7 @@
 <body>
     <div class="wrapper">
         <h2 class="question"> Will you allow me to stay up tonight?<3
-        <img class="gif" alt="gif" src="https://giphy.com/gifs/Capcom-leon-kennedy-s-Si3BZfgJgsSzhlvnYy"/>
+        <img class="gif" alt="gif" src="https://giphy.com/gifs/devil-sanrio-ggolssen-Y1eRcnAP3dvgeKhhx6"/>
         <div class="btn-group">
             <button class="yes-btn">Yes</button>
             <button class="no-btn">No</button>
